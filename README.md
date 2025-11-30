@@ -1,10 +1,9 @@
 # Filtre Publicité Gmail (GAS)
 
-Une solution automatisée basée sur Google Apps Script pour détecter, classer et nettoyer les emails promotionnels ou indésirables de votre boîte de réception Gmail.
+![Runtime](https://img.shields.io/badge/Google%20Apps%20Script-V8-green)
+![Author](https://img.shields.io/badge/Auteur-Fabrice%20Faucheux-orange)
 
-**Auteur :** Fabrice Faucheux  
-**Version :** 1.5.1  
-**Licence :** MIT
+Une solution automatisée basée sur Google Apps Script pour détecter, classer et nettoyer les emails promotionnels ou indésirables de votre boîte de réception Gmail.
 
 ## 📋 Description
 
@@ -23,7 +22,7 @@ Les emails identifiés sont :
 * **Zéro Configuration :** Crée automatiquement le libellé nécessaire s'il n'existe pas.
 * **Logs Détaillés :** Utilise `Logger` et `console.error` pour un suivi précis via l'interface Apps Script.
 
-## 🛠 Installation Manuelle
+## 🛠 Installation manuelle
 
 1. Ouvrez [Google Apps Script](https://script.google.com/).
 2. Créez un nouveau projet nommé "Filtre Publicité".
