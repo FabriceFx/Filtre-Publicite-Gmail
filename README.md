@@ -1,9 +1,15 @@
 # Filtre publicité Gmail
 
+
+[🇫🇷 Version Française](#-version-française) | [🇬🇧 English Version](#-english-version)
+
 ![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Google%20Apps%20Script-green)
 ![Runtime](https://img.shields.io/badge/Google%20Apps%20Script-V8-green)
 ![Author](https://img.shields.io/badge/Auteur-Fabrice%20Faucheux-orange)
+
+## 🇫🇷 Version Française
+
 
 Une solution automatisée basée sur Google Apps Script pour détecter, classer et nettoyer les emails promotionnels ou indésirables de votre boîte de réception Gmail.
 
@@ -45,3 +51,12 @@ Pour que le script tourne en tâche de fond :
 
 * **Sécurité :** Le script ne supprime aucun email définitivement. Il applique uniquement un libellé.
 * **Scope :** Par défaut, il ne scanne que les emails présents dans la boîte de réception (`Inbox`) et non lus (`Unread`).
+
+
+---
+## 🇬🇧 English Version
+
+> English translation coming soon.
+
+---
+<p align="center"><a href="https://faucheux.bzh" target="_blank" style="color: inherit; text-decoration: none;">&lt;&gt; par Fabrice Faucheux</a></p>
